@@ -1,0 +1,9 @@
+*.class
+build/
+
+.setting/
+.gradle/
+.idea/
+.out/
+
+
